@@ -17,6 +17,6 @@ workbox.routing.registerRoute(
 // );
 
 workbox.routing.registerRoute(
-    'https://JEMMGAR.github.io/trabalho4pdm/',
+    'https://JEMMGAR.github.io/trabalho4pdm/#/',
     new workbox.strategies.NetworkFirst()
 );

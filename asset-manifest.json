@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/trabalho4pdm/static/css/main.db7630d3.chunk.css",
-    "main.js": "/trabalho4pdm/static/js/main.a4bff2e4.chunk.js",
-    "main.js.map": "/trabalho4pdm/static/js/main.a4bff2e4.chunk.js.map",
+    "main.js": "/trabalho4pdm/static/js/main.797dd445.chunk.js",
+    "main.js.map": "/trabalho4pdm/static/js/main.797dd445.chunk.js.map",
     "runtime-main.js": "/trabalho4pdm/static/js/runtime-main.e806b6ef.js",
     "runtime-main.js.map": "/trabalho4pdm/static/js/runtime-main.e806b6ef.js.map",
-    "static/js/2.31794a33.chunk.js": "/trabalho4pdm/static/js/2.31794a33.chunk.js",
-    "static/js/2.31794a33.chunk.js.map": "/trabalho4pdm/static/js/2.31794a33.chunk.js.map",
+    "static/js/2.dea72614.chunk.js": "/trabalho4pdm/static/js/2.dea72614.chunk.js",
+    "static/js/2.dea72614.chunk.js.map": "/trabalho4pdm/static/js/2.dea72614.chunk.js.map",
     "index.html": "/trabalho4pdm/index.html",
-    "precache-manifest.fb120bf85b1b287b54c7717fa3580a48.js": "/trabalho4pdm/precache-manifest.fb120bf85b1b287b54c7717fa3580a48.js",
+    "precache-manifest.2ee739d004aa9e87044214e7443ff2be.js": "/trabalho4pdm/precache-manifest.2ee739d004aa9e87044214e7443ff2be.js",
     "service-worker.js": "/trabalho4pdm/service-worker.js",
     "static/css/main.db7630d3.chunk.css.map": "/trabalho4pdm/static/css/main.db7630d3.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.e806b6ef.js",
-    "static/js/2.31794a33.chunk.js",
+    "static/js/2.dea72614.chunk.js",
     "static/css/main.db7630d3.chunk.css",
-    "static/js/main.a4bff2e4.chunk.js"
+    "static/js/main.797dd445.chunk.js"
   ]
 }
