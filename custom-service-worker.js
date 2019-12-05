@@ -11,7 +11,12 @@ workbox.routing.registerRoute(
     new workbox.strategies.NetworkFirst()
 );
 
+// workbox.routing.registerRoute(
+//     'http://localhost:3000/',
+//     new workbox.strategies.NetworkFirst()
+// );
+
 workbox.routing.registerRoute(
-    'http://localhost:3000/',
+    'https://JEMMGAR.github.io/trabalho4pdm/',
     new workbox.strategies.NetworkFirst()
 );
